@@ -1,0 +1,128 @@
+
+
+
+body {
+    background-color: #faedcd; /* fundo rosa claro */
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.menu-container {
+    background-color: #fff;
+    padding: 40px;
+    border-radius: 15px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+    text-align: center;
+    width: 300px;
+}
+
+h2 {
+    margin-bottom: 20px;
+    color: #582f0e; /* rosa mais forte */
+}
+
+a {
+    display: block;
+    background-color: #d5bdaf;
+    color: white;
+    text-decoration: none;
+    padding: 12px;
+    margin: 10px 0;
+    border-radius: 10px;
+    transition: 0.3s;
+    font-size: 16px;
+}
+
+a:hover {
+    background-color: #e3d5ca;
+}
+
+body {
+    background-color: #faedcd; /* rosa claro */
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.form-container {
+    background-color: #fff;
+    padding: 30px;
+    border-radius: 15px;
+  
+    box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+    text-align: center;
+    width: 300px;
+}
+
+h2 {
+    margin-bottom: 20px;
+    color: #582f0e;
+}
+
+label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: bold;
+    color: #555;
+}
+
+input[type="text"] {
+    width: 90%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 2px solid #735751;
+    border-radius: 10px;
+    outline: none;
+    transition: 0.3s;
+}
+
+input[type="text"]:focus {
+    border-color: #d63384;
+    box-shadow: 0 0 5px #735751;
+}
+
+button {
+    background-color: #735751;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: 0.3s;
+}
+
+button:hover {
+    background-color: #e3d5ca;
+}
+
+.main-container {
+    display: flex;
+    gap: 30px; /* espaço entre formulário e imagem */
+    align-items: center;
+    justify-content: center;
+}
+
+.image-container {
+    background: #fff;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+}
+
+.image-container img {
+    max-width: 400px;
+    height: auto;
+    border-radius: 10px;
+}
+
+.cartao-pokemon {
+
+}
