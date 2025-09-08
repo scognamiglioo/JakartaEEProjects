@@ -4,11 +4,15 @@
 # ATIVIDADE 1 - CALCULADORA GET
 
 <img width="1897" height="1013" alt="image" src="https://github.com/user-attachments/assets/ab4140cf-d89d-4f0d-9fc0-c5a65babb4a8" />
+<img width="1897" height="1013" alt="image" src="https://github.com/user-attachments/assets/252f5f82-f723-4521-bd27-a37eab19fb5f" />
+
 
 
 # ATIVIDADE 2 - Distância entre pontos POST
 
 <img width="1897" height="1013" alt="image" src="https://github.com/user-attachments/assets/c6f6b606-4ad6-48e0-b4c0-0081b0721293" />
+<img width="1897" height="1013" alt="image" src="https://github.com/user-attachments/assets/fded8257-c352-49af-9d4a-6e9d3239117c" />
+<img width="1897" height="1013" alt="image" src="https://github.com/user-attachments/assets/bf619b6c-f9d1-4de9-8ff1-2fda7c0aedda" />
 
 
 # ATIVIDADE 3 - PESQUISA DE PILOTOS 
